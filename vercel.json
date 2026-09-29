@@ -1,0 +1,14 @@
+{
+    "experimentalServerActions": {
+        "frontend": {
+            "entrypoint": "frontend",
+            "routePrefix": "/api",
+            "framework": "nextjs"
+        },
+        "backend": {
+            "entrypoint": "backend",
+            "routePrefix": "/api",
+            "framework": "express"
+        }
+    }
+}
